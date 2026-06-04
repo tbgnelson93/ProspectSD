@@ -6,7 +6,7 @@
     "enabled": true
   },
   "assets": {
-    "directory": "Prospect-Sundance-Retreat"
+    "directory": "."
   },
   "compatibility_flags": [
     "nodejs_compat"
